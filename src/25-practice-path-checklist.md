@@ -1,4 +1,4 @@
-# Zero-to-hero practice path / checklist
+# Practice path / checklist
 
 Work top to bottom. Check items off as you build tiny programs.
 
