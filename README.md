@@ -8,7 +8,7 @@ Aligned with the official [Rust by Example](https://doc.rust-lang.org/rust-by-ex
 
 ## Start here
 
-→ **[RUST_FROM_JS_ZERO_TO_HERO.md](./RUST_FROM_JS_ZERO_TO_HERO.md)**
+→ **[GUIDE.md](./GUIDE.md)**
 
 Each topic includes:
 
@@ -18,12 +18,14 @@ Each topic includes:
 4. JS equivalents when useful
 5. Common pitfalls for JS developers
 
-## Coverage
+## Repo layout
 
-- **197/197** Rust by Example leaf topics
-- Checklist: [`COVERAGE.md`](./COVERAGE.md)
-
-Includes install/`cargo` mapped from npm, deep ownership & borrowing for JS minds, practice checklist, and a JS ↔ Rust cheatsheet.
+| File | What it is |
+|---|---|
+| [`GUIDE.md`](./GUIDE.md) | Full tutorial (main read) |
+| [`COVERAGE.md`](./COVERAGE.md) | Checklist: 197/197 RBE leaf topics |
+| [`RBE_SUMMARY.md`](./RBE_SUMMARY.md) | Official Rust by Example table of contents |
+| [`LICENSE`](./LICENSE) | MIT |
 
 ## Official companions
 
@@ -34,7 +36,7 @@ Includes install/`cargo` mapped from npm, deep ownership & borrowing for JS mind
 ## How to use
 
 1. Install Rust with `rustup`.
-2. Open `RUST_FROM_JS_ZERO_TO_HERO.md` and work section by section.
+2. Open [`GUIDE.md`](./GUIDE.md) and work section by section.
 3. Create a practice crate (`cargo new rust_playground`) and type the examples yourself.
 4. Spend extra time on **ownership, borrowing, and lifetimes**.
 5. Follow the practice checklist near the end of the guide.

@@ -1,6 +1,6 @@
 # RBE coverage checklist
 
-Every leaf from `SUMMARY.md` mapped to a heading in `RUST_FROM_JS_ZERO_TO_HERO.md`.
+Every leaf from `SUMMARY.md` mapped to a heading in `GUIDE.md`.
 
 Total leaves: **197**
 
