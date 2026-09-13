@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-A complete, open-source **Rust zero-to-hero** tutorial written for people who already know **JavaScript (ES6+)**.
+A complete, open-source **Rust tutorial** written for people who already know **JavaScript (ES6+)**.
 
 Aligned with the official [Rust by Example](https://doc.rust-lang.org/rust-by-example/) curriculum — **every nested topic** covered in simple words, with clear examples.
 

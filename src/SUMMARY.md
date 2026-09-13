@@ -25,5 +25,5 @@
 - [Testing](./22-testing.md)
 - [Unsafe operations](./23-unsafe-operations.md)
 - [Compatibility & meta](./24-compatibility-meta.md)
-- [Zero-to-hero practice path / checklist](./25-zero-to-hero-practice-path-checklist.md)
+- [Practice path / checklist](./25-practice-path-checklist.md)
 - [Quick JS↔Rust cheatsheet appendix](./26-quick-jsrust-cheatsheet-appendix.md)

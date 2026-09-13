@@ -1,4 +1,4 @@
-# Rust from JavaScript: Zero to Hero
+# Rust for JS Devs
 
 > A complete, super-simple tutorial for JavaScript (ES6+) developers learning Rust from scratch.
 > Curriculum aligned with [Rust by Example](https://doc.rust-lang.org/rust-by-example/) (RBE).
@@ -33,7 +33,7 @@
 22. [Testing](#22-testing)
 23. [Unsafe operations](#23-unsafe-operations)
 24. [Compatibility & meta](#24-compatibility-meta)
-25. [Zero-to-hero practice path](#25-zero-to-hero-practice-path--checklist)
+25. [Practice path / checklist](#25-practice-path--checklist)
 26. [Quick JS↔Rust cheatsheet](#26-quick-jsrust-cheatsheet-appendix)
 
 Coverage checklist: [`COVERAGE.md`](./COVERAGE.md) (every SUMMARY leaf → DONE).
@@ -13405,7 +13405,7 @@ _RBE source: `meta/playground.md`_
 
 ---
 
-## 25. Zero-to-hero practice path / checklist
+## 25. Practice path / checklist
 
 Work top to bottom. Check items off as you build tiny programs.
 

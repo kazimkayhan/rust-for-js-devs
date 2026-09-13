@@ -1,7 +1,7 @@
 [book]
 title = "Rust for JS Devs"
-authors = ["Cursor Agent"]
-description = "A complete Rust zero-to-hero tutorial for JavaScript developers, aligned with Rust by Example curriculum"
+authors = ["Kazim Kayhan"]
+description = "A complete Rust tutorial for JavaScript developers, aligned with Rust by Example curriculum"
 language = "en"
 multilingual = false
 src = "src"
