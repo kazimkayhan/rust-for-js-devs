@@ -1,1 +1,4 @@
 _gen/
+
+# mdBook build output
+book/
